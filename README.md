@@ -22,14 +22,11 @@ Fitur-Fitur:
 9. ImageView - Nampilin gambar destinasi
 10. SharedPreferences - Data pemesanan disimpen di lokal, session login juga
 11. Fragment - HistoryFragment buat liat riwayat pemesanan
-
-Bonus (nilai tambahan):
-
-- DatePicker - Pilih tanggal keberangkatan pake kalender
-- RecyclerView - Nampilin riwayat pemesanan dalam bentuk list
-- Login & Register - Ada sistem akun biar lebih interaktif
-- Logout - Bisa keluar dari akun
-- Multiple Implicit Intent - Ada 4 jenis: dial, maps, email, share
+12. DatePicker - Pilih tanggal keberangkatan pake kalender
+13. RecyclerView - Nampilin riwayat pemesanan dalam bentuk list
+14. Login & Register - Ada sistem akun biar lebih interaktif
+15. Logout - Bisa keluar dari akun
+16. Multiple Implicit Intent - Ada 4 jenis: dial, maps, email, share
 
 --------------------------------------------------
 
@@ -98,9 +95,9 @@ Tech Stack
 
 Kendala Selama Pengerjaan
 
-- Awalnya bingung mau pake tema apa, akhirnya milih wisata aja biar beda sama yang lain
-- Sempet error pas ganti minSdk soalnya adaptive icon butuh API 26, jadi folder mipmap-anydpi dihapus
-- Login system agak ribet soalnya harus nyimpen data user di SharedPreferences terus validasi pas login
+-Pada tahap awal pengembangan, terdapat kebingungan dalam menentukan tema aplikasi yang akan digunakan. Setelah mempertimbangkan beberapa opsi, dipilih tema wisata agar memiliki konsep yang lebih menarik dan berbeda dari aplikasi lain.
+-Selama proses pengembangan, sempat terjadi error ketika melakukan perubahan pada nilai minSdk. Hal tersebut disebabkan karena penggunaan adaptive icon yang memerlukan minimal API 26. Untuk mengatasi masalah tersebut, folder mipmap-anydpi dihapus sehingga aplikasi dapat berjalan dengan normal pada versi API yang digunakan.
+-Implementasi sistem login juga menjadi salah satu tantangan dalam pengembangan aplikasi. Proses ini memerlukan penyimpanan data pengguna menggunakan SharedPreferences, serta pembuatan validasi data saat proses login agar sistem dapat berjalan dengan baik dan sesuai kebutuhan aplikasi
 
 --------------------------------------------------
 
