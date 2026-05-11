@@ -5,9 +5,7 @@ Nabil Zhafran Gyfari(2411500032)
 Nabil Alfarizi(2412501641)
 --------------------------------------------------
 Tentang Aplikasi:
-Jadi aplikasi ini tuh buat mesen tiket wisata ke beberapa destinasi populer di Indonesia. User bisa pilih mau ke Bali, Jogja, Lombok, Raja Ampat, atau Labuan Bajo. Nanti bakal muncul detail harga sama fasilitas tambahan yang bisa dipilih.
-
-Kenapa pake tema wisata? soalnya di soal UTS dibilang bebas tema dan gak boleh pake Student Registration Form yang udah sering dibahas di kelas. Jadi ya wisata aja biar beda.
+Jadi aplikasi ini di buat untuk memesan tiket wisata ke beberapa destinasi populer di Indonesia. User bisa pilih mau ke Bali, Jogja, Lombok, Raja Ampat, atau Labuan Bajo. Nanti bakal muncul detail harga sama fasilitas tambahan yang bisa dipilih.
 
 --------------------------------------------------
 
