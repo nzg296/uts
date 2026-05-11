@@ -96,7 +96,9 @@ Tech Stack
 Kendala Selama Pengerjaan
 
 -Pada tahap awal pengembangan, terdapat kebingungan dalam menentukan tema aplikasi yang akan digunakan. Setelah mempertimbangkan beberapa opsi, dipilih tema wisata agar memiliki konsep yang lebih menarik dan berbeda dari aplikasi lain.
+
 -Selama proses pengembangan, sempat terjadi error ketika melakukan perubahan pada nilai minSdk. Hal tersebut disebabkan karena penggunaan adaptive icon yang memerlukan minimal API 26. Untuk mengatasi masalah tersebut, folder mipmap-anydpi dihapus sehingga aplikasi dapat berjalan dengan normal pada versi API yang digunakan.
+
 -Implementasi sistem login juga menjadi salah satu tantangan dalam pengembangan aplikasi. Proses ini memerlukan penyimpanan data pengguna menggunakan SharedPreferences, serta pembuatan validasi data saat proses login agar sistem dapat berjalan dengan baik dan sesuai kebutuhan aplikasi
 
 --------------------------------------------------
