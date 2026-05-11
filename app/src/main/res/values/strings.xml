@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pesona Wisata Indonesia</string>
+    <string name="booking_title">Form Pemesanan Tiket</string>
+    <string name="hint_name">Nama Lengkap</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Nomor HP</string>
+    <string name="hint_date">Pilih Tanggal Keberangkatan</string>
+    <string name="hint_tickets">Jumlah Tiket</string>
+    <string name="label_destination">Pilih Destinasi Wisata</string>
+    <string name="label_gender">Jenis Kelamin</string>
+    <string name="label_facilities">Fasilitas Tambahan</string>
+    <string name="btn_book">PESAN TIKET SEKARANG</string>
+    <string name="btn_call">Hubungi CS</string>
+    <string name="btn_maps">Buka Maps</string>
+    <string name="btn_email">Email</string>
+    <string name="btn_share">Bagikan</string>
+    <string name="btn_history">Riwayat</string>
+    <string name="result_title">Detail Pemesanan</string>
+    <string name="btn_new_booking">Pesan Lagi</string>
+    <string name="empty_history">Belum ada riwayat pemesanan</string>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/login_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/ic_destination"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/primary"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/tvSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Silakan login untuk melanjutkan"
+        android:textSize="14sp"
+        android:layout_marginBottom="24dp" />
+
+    <EditText
+        android:id="@+id/etUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Username"
+        android:inputType="text"
+        android:background="@drawable/bg_edittext"
+        android:padding="12dp"
+        android:layout_marginBottom="12dp" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:background="@drawable/bg_edittext"
+        android:padding="12dp"
+        android:layout_marginBottom="12dp" />
+
+    <EditText
+        android:id="@+id/etConfirmPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Konfirmasi Password"
+        android:inputType="textPassword"
+        android:background="@drawable/bg_edittext"
+        android:padding="12dp"
+        android:layout_marginBottom="24dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btnAction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LOGIN"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@color/primary"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/tvToggle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Belum punya akun? Daftar di sini"
+        android:textColor="@color/primary"
+        android:textStyle="bold"
+        android:padding="8dp" />
+
+</LinearLayout>
