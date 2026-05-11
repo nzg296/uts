@@ -5,7 +5,9 @@ Nabil Zhafran Gyfari(2411500032)
 Nabil Alfarizi(2412501641)
 --------------------------------------------------
 Tentang Aplikasi:
-Jadi aplikasi ini di buat untuk memesan tiket wisata ke beberapa destinasi populer di Indonesia. User bisa pilih mau ke Bali, Jogja, Lombok, Raja Ampat, atau Labuan Bajo. Nanti bakal muncul detail harga sama fasilitas tambahan yang bisa dipilih.
+
+Aplikasi ini dibuat untuk memfasilitasi proses pemesanan tiket wisata ke beberapa destinasi populer di Indonesia. Pengguna dapat memilih berbagai tujuan wisata, seperti Bali, Yogyakarta, Lombok, Raja Ampat, dan Labuan Bajo. Setelah destinasi dipilih, aplikasi akan menampilkan informasi terkait harga tiket serta fasilitas tambahan yang tersedia dan dapat dipilih sesuai kebutuhan pengguna.
+
 
 --------------------------------------------------
 
@@ -105,7 +107,9 @@ Kendala Selama Pengerjaan
 
 Kesimpulan
 
-Aplikasi ini udah memenuhi semua ketentuan wajib dari soal UTS + ada beberapa fitur bonus.
+- Aplikasi Pesona Wisata Indonesia berhasil dikembangkan sesuai dengan ketentuan yang diberikan pada Ujian Tengah Semester (UTS) Mata Kuliah Mobile Programming. Aplikasi ini mampu menjalankan berbagai fitur         utama, seperti sistem login dan registrasi, pemesanan tiket wisata, validasi form, penyimpanan data menggunakan SharedPreferences, penggunaan RecyclerView, Fragment, DatePicker, serta implementasi Explicit dan    Implicit Intent.
+
+- Selain memenuhi seluruh persyaratan wajib, aplikasi ini juga dilengkapi dengan beberapa fitur tambahan yang bertujuan untuk meningkatkan kenyamanan dan interaktivitas pengguna. Dengan adanya aplikasi ini,         diharapkan proses pemesanan wisata dapat dilakukan dengan lebih mudah, praktis, dan efisien.
 
 --------------------------------------------------
 
