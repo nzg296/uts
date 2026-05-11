@@ -80,8 +80,6 @@ Note: Minimun Android 7.0 (API 24) ke atas. Kalau HP kamu masih di bawah itu, ga
 
 --------------------------------------------------
 
---------------------------------------------------
-
 Tech Stack
 
 - Bahasa    : Java
