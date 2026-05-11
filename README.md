@@ -49,15 +49,15 @@ Alur Penggunaan
 
 Daftar Destinasi & Harga
 
-Bali - Pantai Kuta          : Rp 1.500.000
+- Bali - Pantai Kuta          : Rp 1.500.000
 
-Yogyakarta - Borobudur      : Rp 800.000
+- Yogyakarta - Borobudur      : Rp 800.000
 
-Lombok - Gunung Rinjani     : Rp 1.200.000
+- Lombok - Gunung Rinjani     : Rp 1.200.000
 
-Raja Ampat - Papua          : Rp 3.500.000
+- Raja Ampat - Papua          : Rp 3.500.000
 
-Labuan Bajo - NTT           : Rp 2.000.000
+- Labuan Bajo - NTT           : Rp 2.000.000
 
 Fasilitas Tambahan:
 - Transportasi : +Rp 200.000/orang
